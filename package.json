@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Implement regular expressions in Express Route Path",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoyZhang2023/Express_Route.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
