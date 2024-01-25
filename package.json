@@ -1,0 +1,20 @@
+{
+  "name": "express_route",
+  "version": "1.0.0",
+  "description": "Implement regular expressions in Express Route Path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "\"npm\"",
+    "\"express\"",
+    "\"route\""
+  ],
+  "author": "\"Xinran Zhang\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
